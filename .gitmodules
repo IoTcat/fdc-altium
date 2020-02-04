@@ -1,0 +1,6 @@
+[submodule "lib\\public\\kit"]
+	path = lib\\public\\kit
+	url = https://github.com/KitSprout/AltiumDesigner_PcbLibrary
+[submodule "lib\\public\\issus"]
+	path = lib\\public\\issus
+	url = https://github.com/issus/altium-library
